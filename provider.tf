@@ -1,3 +1,6 @@
+# Initial Config
+# -ankau
+
 terraform {
   required_providers {
     akamai = {
